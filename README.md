@@ -21,6 +21,6 @@ Screenshot that proves my application works:
 
 1. (images/post.jpg)
 2. (images/get.jpg)
-3. (images/post.jpg)
+3. (images/put.jpg)
 4. (images/delete.jpg)
 5. (images/database.jpg)
