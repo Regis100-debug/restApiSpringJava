@@ -19,8 +19,8 @@ How the Program Works (You can check with a Postman tool):
 
 Screenshot that proves my application works:
 
-1. (images/post.jpg)
-2. (images/get.jpg)
-3. (images/put.jpg)
-4. (images/delete.jpg)
-5. (images/database.jpg)
+1. ![Creating a product](images/post.jpg)
+2. ![Retrieving product information](images/get.jpg)
+3. ![Updating a product](images/put.jpg)
+4. ![Deleting a product](images/delete.jpg)
+5. ![Database state](images/database.jpg)
