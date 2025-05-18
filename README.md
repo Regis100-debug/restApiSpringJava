@@ -19,8 +19,8 @@ How the Program Works (You can check with a Postman tool):
 
 Screenshot that proves my application works:
 
-1. ![Creating a product](images/post.jpg)
-2. ![Retrieving product information](images/get.jpg)
-3. ![Updating a product](images/put.jpg)
-4. ![Deleting a product](images/delete.jpg)
-5. ![Database state](images/database.jpg)
+1. Creating a product: ![Creating a product](images/post.jpg)
+2. Getting product information: ![Retrieving product information](images/get.jpg)
+3. Updating a product: ![Updating a product](images/put.jpg)
+4. Deleting a product: ![Deleting a product](images/delete.jpg)
+5. Database state: ![Database state](images/database.jpg)
